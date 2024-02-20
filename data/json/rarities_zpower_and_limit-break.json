@@ -16,7 +16,7 @@
         "Z_Power_reset": "Please note that after obtaining a Star, the Z Power Counter resets to 0.",
         "limit_break": {
           "stars": 14,
-          "star_effects": "Some Star's has a different effect."
+          "star_effects": "Some Star's have different effects."
         }
       },
       "Z_Powers_obtainability": {
