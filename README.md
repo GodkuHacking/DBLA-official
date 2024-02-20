@@ -24,3 +24,4 @@ Version | Notes
 :---:| ---
 📌1.0.0| All Ultras have been complete and made the json data!
 📌1.0.1| All json data for zenkai requirements and other stuff have been made!
+📌1.0.2| Misc images have been edded in the data/misc folder along with mesh objs that are now pngs!
