@@ -1,0 +1,23 @@
+{
+    "FIGHTING MECHS": {
+      "tutorial_steps": [
+        "The game begins with a pretty simple tutorial that explains all the controls needed to play the game:",
+        "Swiping upwards moves the Fighter forward.",
+        "Swiping downwards moves the Fighter backward.",
+        "Repeatedly touching the screen when close to the Enemy has the Fighter throw some basic punches or a single Energy Blast if the Enemy is far away.",
+        "Pressing and holding a finger on the screen will charge the Ki Meter faster than it would be charged by the Fighter standing still. Ki is needed in order to use Arts Cards, which can be seen at the bottom of the screen. Understanding how to Combo Arts Cards and manage Ki is essential to victory.",
+        "Swiping left or right performs a Vanish Step. Vanish Steps are really important because it’s the only purely Defensive action. Vanish Stepping when an exclamation mark shows up above the Fighter’s head allows them to dodge Enemy Attacks. This action drains the Vanish Gauge which appears under the Fighter. It will recover after some time, so a good strategy is to attack right or swap with another Fighter on the Team right after dodging. The Vanish Gauge will not replenish while Fighters are charging their Ki or Attacking.",
+        "Tapping the Fighter icon activates their Main Ability. The effect of the Main Ability differs from Fighter to Fighter, and the specifics can be found in each Fighter’s “Abilities” tab",
+        "When two Fighters clash (i.e. do a Rush at the same time, or start a beam struggle) they instigate a “Dokabaki Impact”. Two bars will appear, and the player who fills the bar higher wins.",
+        "Each Art Card has a random chance of Dragon Ball appearing at its upper left corner. By landing seven of these Moves, the Fighter can perform a Rising Rush--a move so powerful it can potentially knock out Fighters with considerably higher power levels.",
+        "There are currently six types of Arts Cards:",
+        "- Strike (Red, Melee Attacks)",
+        "- Blast (Yellow, Ranged Attacks)",
+        "- Extra Move (Green, Stats Buffs and/or other effects) Also called a Quirk or Special by the game",
+        "- Special Move (Blue, deals huge Damage)",
+        "- Ultimate Move (Blue with a spiked border, only for certain Fighters)",
+        "- Awakened (Purple, only for certain Fighters)"
+      ]
+    }
+  }
+  

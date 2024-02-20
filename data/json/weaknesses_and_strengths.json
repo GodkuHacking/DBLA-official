@@ -1,0 +1,35 @@
+{
+    "Strengths_and_Weaknesses": {
+      "elements": {
+        "BLU": {
+          "strong_to": ["RED"],
+          "weak_to": ["GRN"]
+        },
+        "GRN": {
+          "strong_to": ["BLU"],
+          "weak_to": ["PUR"]
+        },
+        "PUR": {
+          "strong_to": ["GRN"],
+          "weak_to": ["YEL"]
+        },
+        "YEL": {
+          "strong_to": ["PUR"],
+          "weak_to": ["RED"]
+        },
+        "RED": {
+          "strong_to": ["YEL"],
+          "weak_to": ["BLU"]
+        },
+        "DRK": {
+          "strong_to": ["BLU", "GRN", "PUR", "YEL", "RED"],
+          "weak_to": ["LGT"]
+        },
+        "LGT": {
+          "strong_to": ["DRK"],
+          "neutral_to": ["BLU", "GRN", "PUR", "YEL", "RED"]
+        }
+      }
+    }
+  }
+  

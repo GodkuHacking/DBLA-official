@@ -1,0 +1,18 @@
+{
+    "requirements": {
+      "stars": 7,
+      "zpower": 3000
+    },
+    "zenkai": {
+      "1": 1000,
+      "2": 2000,
+      "3": 3000,
+      "4": 4000,
+      "5": 5000,
+      "6": 6000,
+      "7": 7000
+    },
+    "zenkai_border": "https://media.discordapp.net/attachments/1082803513211502662/1082804731874910238/MChaIco_frmPlentyHigh.png?ex=65de6dfd&is=65cbf8fd&hm=d8de9cd3d62c706a04f0c160126119c26901a4779f3b476c49fcf7aab82dc9eb&=&format=webp&quality=lossless",
+    "zenkai_number": "https://media.discordapp.net/attachments/1082803513211502662/1082804638715220028/MChaIco_icnPlenty_7.png?ex=65de6de7&is=65cbf8e7&hm=ce8bacfa0d1e5670e1fdb33512e363c65876d4c731d401e1bcdf8f97e7557d05&=&format=webp&quality=lossless"
+  }
+  

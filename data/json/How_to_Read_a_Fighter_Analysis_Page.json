@@ -1,0 +1,30 @@
+{
+    "How_to_Read_a_Fighter_Analysis_Page": {
+      "Fighter_Stats": [
+        "Health",
+        "Attack Values (Strike and Blast)",
+        "Defense Values (Strike and Blast)",
+        "Critical Rate (Damage randomly increased by 25%)",
+        "Ki Recovery Speed",
+        "Vanish Step Recovery Speed"
+      ],
+      "Fighter_Info": {
+        "Battle_style": "Melee Fighters have high Strike Attack. Ranged Fighters have high Blast Attack and often have faster Ki Recovery Speeds compared to Melee Fighters. Support Fighters have Abilities that benefit every Teammate, often involving healing. Their stats are usually pretty even with no one stat being significantly higher than the others. Defense Fighters excel in Health and one or both types of Defense stat.",
+        "Arts_Cards_Held": "When building a Team, the Fighters chosen will influence the Arts Cards that appear in-battle. For example, selecting a lot of Melee Fighters usually means drawing more Strike Arts Cards."
+      },
+      "Tags": "Each Fighter has a different set of Tags which affect the Buffs available to them from their fellow Teammates. Fighters should be put into Teams where their Z-Abilities Buff Tags that their Teammates have and vice versa.",
+      "Overview": "This section provides a short summary of the pros and cons of a Fighter, as well as what makes them unique upon release.",
+      "Strengths_and_Weaknesses": "This is where GamePress elaborates on the pros and cons of a Fighter and their comparative usability in the current Meta. This section is great for both new Players and seasoned Veterans because it contextualizes the Fighter's stats, Moveset, Equipment value, and Team Synergy.",
+      "Team_Synergy": "Team Synergy is often based on Element Group or Tags, and this section lists the best Team Builds based on both of these aspects as well as provides some analysis on the current Teammate options within a Build and how a given Fighter performs within the Builds available.",
+      "Equippable_Items_and_Recommended_Equipment": "This section provides links to all the Equips that Fighter can use and what GamePress recommends based on what is available upon that Fighter's release.",
+      "Abilities_and_Moves": {
+        "Main_Ability": "This Ability is activated by tapping the Fighter's icon. Usually, there is a time requirement (expressed in “Timer Counts”, roughly the equivalent of seconds) that must be fulfilled before activating these Abilities.",
+        "Unique_Ability": "Unless stated otherwise, these Abilities will activate on their own.",
+        "Z-Ability": "An Ability that is always active and that every member of the Team (even ones that are in the Team, but aren’t actually fighting) are constantly using. It usually consists of increasing some kind of stat for a certain category of Fighters.",
+        "Special_Extra_Ultimate_and_Awakened_Moves": "These Moves appear as Arts Cards alongside the more common Strike and Blast Arts Cards."
+      },
+      "Resistance": "Some attacks like Special Moves deal a particular type of Damage called Complex Damage. The Damage received is dependant on the Resistance a Fighter has to that type of Damage (Slice, Pierce, Impact, Explode).",
+      "Soul_Boost_Stats_and_Recommended_Soul_Boosts": "This section lists the hard numbers on how Soul Panels Boost a stat or improve an Ability, as well as provides recommendations for which stats to prioritize."
+    }
+  }
+  

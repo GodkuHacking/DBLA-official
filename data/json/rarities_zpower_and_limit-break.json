@@ -1,0 +1,28 @@
+{
+    "Rarities_Z_Powers_and_Limit_Break": {
+      "rarities": {
+        "HE": "HERO Fighters are common.",
+        "EX": "EXTREME Fighters are uncommon",
+        "SP": "SPARKING Fighters are usually stronger.",
+        "UL": "Ultra Fighters are the rarest and usually a lot stronger with better gauges"
+      },
+      "unlocking_and_limit_break": {
+        "unlocking_methods": "Fighters are unlocked by collecting Z Powers, summoning or playing events.",
+        "summoning_Z_Powers": {
+          "HE": 100,
+          "EX": 250,
+          "SP": 600
+        },
+        "Z_Power_reset": "Please note that after obtaining a Star, the Z Power Counter resets to 0.",
+        "limit_break": {
+          "stars": 14,
+          "star_effects": "Some Star's has a different effect."
+        }
+      },
+      "Z_Powers_obtainability": {
+        "sources": "Z Powers are obtainable through Missions, Events, and Scout Battles.",
+        "tip": "It’s always good to check the Frontpage Calendar for Live Events and Scout Battles to know where and when certain Fighters can be unlocked without the need to summon them."
+      }
+    }
+  }
+  
