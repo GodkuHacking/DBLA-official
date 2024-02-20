@@ -33,3 +33,4 @@ Version | Notes
 
 - Darklaser38 (also owner of the godku project)
 - Mindset
+- uzoto and rez_gb for helping get images
