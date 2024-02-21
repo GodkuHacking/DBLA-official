@@ -9,8 +9,8 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f3f3f3;
-            color: #333;
+            background-color: #222;
+            color: #fff;
             margin: 0;
             padding: 0;
         }
@@ -19,7 +19,6 @@
             background-color: #333;
             padding: 20px;
             text-align: center;
-            color: #fff;
         }
 
         nav ul {
@@ -51,7 +50,6 @@
             background-color: #333;
             padding: 20px;
             text-align: center;
-            color: #fff;
         }
 
         /* Markdown Styling */
@@ -61,7 +59,7 @@
             max-width: 980px;
             margin: 0 auto;
             padding: 45px;
-            background-color: #fff;
+            background-color: #333;
             border-radius: 5px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
@@ -70,6 +68,20 @@
             .markdown-body {
                 padding: 15px;
             }
+        }
+
+        .markdown-body h1,
+        .markdown-body h2,
+        .markdown-body h3,
+        .markdown-body h4,
+        .markdown-body h5,
+        .markdown-body h6 {
+            color: #fff;
+        }
+
+        .markdown-body p,
+        .markdown-body li {
+            color: #ddd;
         }
     </style>
 </head>
@@ -96,7 +108,7 @@
         <section id="assets">
             <div class="markdown-body">
                 <!-- Markdown content will be displayed here -->
-                <iframe src="https://api.github.com/markdown/raw?url=https://raw.githubusercontent.com/mindsetpro/DBLA-official/mind/README.md" frameborder="0" style="width:100%; height:500px;"></iframe>
+                <iframe srcdoc="" frameborder="0" style="width:100%; height:500px;"></iframe>
             </div>
         </section>
     </main>
@@ -104,6 +116,22 @@
     <footer>
         <p>&copy; 2024 DB Legends Assets Documentation</p>
     </footer>
+
+    <script>
+        // Fetch the README.md content
+        fetch('README.md')
+            .then(response => response.text())
+            .then(text => {
+                // Convert markdown to HTML
+                const converter = new showdown.Converter();
+                const html = converter.makeHtml(text);
+                // Set the HTML content to the iframe
+                const iframe = document.querySelector('iframe');
+                iframe.srcdoc = html;
+            })
+            .catch(error => console.error(error));
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
 </body>
 
 </html>
