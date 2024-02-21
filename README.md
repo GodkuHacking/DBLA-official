@@ -28,6 +28,9 @@ Version | Notes
 📌1.0.3| added a few paranorma (more in a few hours after this commit) 2 mesh and a new folder for satx also added some summon banners.
 📌1.0.4| added more mesh and still adding more also new characters soon along with banners maybe a python script to scrape news and send a webhook.
 
+### preview of the folder with all the assets
+
+![image](https://github.com/mindsetpro/DBLA-official/assets/138173273/6b5e0d0d-2c3e-44a3-b543-abf72a1c4b26)
 
 
 ### contributors
