@@ -1,4 +1,4 @@
-![banner](/assets/image.png)
+![image](https://github.com/mindsetpro/DBLA-official/assets/138173273/aeb66e65-2214-4060-9a88-059c12346f32)
 
 ------
 
