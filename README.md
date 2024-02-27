@@ -43,6 +43,6 @@ subject | Notes
 ### contributors
 helper | notes
 :---:| ---
-- Darklaser38| (also owner of the godku project)
-- Mindset| Owner/Creator of this project
-- uzoto and rez_gb| for helping get images
+Darklaser38| (also owner of the godku project)
+Mindset| Owner/Creator of this project
+uzoto and rez_gb| for helping get images
