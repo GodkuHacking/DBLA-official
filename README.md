@@ -32,6 +32,13 @@ Version | Notes
 
 ![image](https://github.com/mindsetpro/DBLA-official/assets/138173273/6b5e0d0d-2c3e-44a3-b543-abf72a1c4b26)
 
+# upcoming updates
+subject | Notes
+:---:| ---
+📌more banners| more banner assets
+📌news| Add latest dbl news right on release
+📌events| Add Events assets on release
+
 
 ### contributors
 
