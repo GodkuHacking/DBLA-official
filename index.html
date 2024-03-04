@@ -1,137 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DB Legends Assets Documentation</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
+    <title>Redirecting...</title>
     <style>
         body {
+            background-color: #1e1e1e;
+            color: #ffffff;
             font-family: Arial, sans-serif;
-            background-color: #222;
-            color: #fff;
             margin: 0;
             padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
         }
 
-        header {
-            background-color: #333;
+        .container {
+            text-align: center;
+            max-width: 600px;
             padding: 20px;
-            text-align: center;
+            border-radius: 10px;
+            background-color: #2b2b2b;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
 
-        nav ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            text-align: center;
+        p {
+            margin-bottom: 20px;
         }
 
-        nav ul li {
-            display: inline;
-            margin: 0 10px;
-        }
-
-        nav ul li a {
-            color: #fff;
+        a {
+            color: #ffffff;
             text-decoration: none;
+            font-weight: bold;
         }
 
-        main {
-            padding: 20px;
-        }
-
-        section {
-            margin-bottom: 40px;
-        }
-
-        footer {
-            background-color: #333;
-            padding: 20px;
-            text-align: center;
-        }
-
-        /* Markdown Styling */
-        .markdown-body {
-            box-sizing: border-box;
-            min-width: 200px;
-            max-width: 980px;
-            margin: 0 auto;
-            padding: 45px;
-            background-color: #333;
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-
-        @media (max-width: 767px) {
-            .markdown-body {
-                padding: 15px;
-            }
-        }
-
-        .markdown-body h1,
-        .markdown-body h2,
-        .markdown-body h3,
-        .markdown-body h4,
-        .markdown-body h5,
-        .markdown-body h6 {
-            color: #fff;
-        }
-
-        .markdown-body p,
-        .markdown-body li {
-            color: #ddd;
+        a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
-
 <body>
-    <header>
-        <h1>DB Legends Assets Documentation</h1>
-    </header>
-
-    <nav>
-        <ul>
-            <li><a href="#overview">Overview</a></li>
-            <li><a href="#assets">Assets</a></li>
-            <li><a href="#preview">Preview</a></li>
-        </ul>
-    </nav>
-
-    <main>
-        <section id="overview">
-            <h2>Overview</h2>
-            <p>This is the documentation for the DB Legends Assets GitHub repository.</p>
-        </section>
-
-        <section id="assets">
-            <div class="markdown-body">
-                <!-- Markdown content will be displayed here -->
-                <iframe srcdoc="" frameborder="0" style="width:100%; height:500px;"></iframe>
-            </div>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2024 DB Legends Assets Documentation</p>
-    </footer>
+    <div class="container">
+        <p>If you are not redirected automatically, <a href="https://discord.com/oauth2/authorize?client_id=1214314698397323356&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2FNtNRxjgzKR&scope=guilds.join+guilds">click here</a>.</p>
+    </div>
 
     <script>
-        // Fetch the README.md content
-        fetch('README.md')
-            .then(response => response.text())
-            .then(text => {
-                // Convert markdown to HTML
-                const converter = new showdown.Converter();
-                const html = converter.makeHtml(text);
-                // Set the HTML content to the iframe
-                const iframe = document.querySelector('iframe');
-                iframe.srcdoc = html;
-            })
-            .catch(error => console.error(error));
+        // Redirect the user to the Discord invite link
+        setTimeout(function() {
+            window.location.href = "https://cdn.discordapp.com/attachments/1201293713587064833/1214316471048601680/Godku_DBL_5.0.1_64Bit_basic.apk?ex=65f8ab57&is=65e63657&hm=7b5cd797112fbbfa8aeaf5b6ce9f7d56b9597abb31825891773ad62343a10abe&";
+        }, 3000); // 3000 milliseconds delay (3 seconds)
     </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
 </body>
-
 </html>
